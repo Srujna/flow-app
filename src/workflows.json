@@ -1,0 +1,109 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "workflowName": "Workflow 1",
+        "status": "COMPLETED",
+        "nodes": [
+          {
+            "nodeName": "Task 1",
+            "nodeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "status": "Completed"
+          },
+          {
+            "nodeName": "Task 2",
+            "nodeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "status": "Completed"
+          },
+          {
+            "nodeName": "Task 3",
+            "nodeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "status": "Completed"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "workflowName": "Workflow 2",
+        "status": "Pending",
+        "nodes": [
+          {
+            "nodeName": "Task 1",
+            "nodeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "status": "Completed"
+          },
+          {
+            "nodeName": "Task 2",
+            "nodeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "status": "In Progress"
+          },
+          {
+            "nodeName": "Task 3",
+            "nodeDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "status": "Pending"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "workflowName": "Workflow 3",
+        "status": "Pending",
+        "nodes": [
+          {
+            "nodeName": "Task1 ",
+            "nodeDescription": "",
+            "status": "InProgress"
+          },
+          {
+            "nodeName": "Task 2",
+            "nodeDescription": "",
+            "status": "Completed"
+          },
+          {
+            "nodeName": "Task 3",
+            "nodeDescription": "",
+            "status": "Pending"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "workflowName": "Workflow4",
+        "status": "Pending",
+        "nodes": [
+          {
+            "nodeName": "Tsdfsdf",
+            "nodeDescription": "",
+            "status": "Pending"
+          }
+        ]
+      },
+      {
+        "workflowName": "Workflow 5",
+        "status": "Pending",
+        "nodes": [
+          {
+            "nodeName": "Task1",
+            "nodeDescription": "",
+            "status": "Pending"
+          },
+          {
+            "nodeName": "Tast 2",
+            "nodeDescription": "",
+            "status": "Pending"
+          },
+          {
+            "nodeName": "Task 3",
+            "nodeDescription": "",
+            "status": "Pending"
+          },
+          {
+            "nodeName": "Task 4",
+            "nodeDescription": "",
+            "status": "Pending"
+          }
+        ],
+        "id": 5
+      }
+    ]
+  }
