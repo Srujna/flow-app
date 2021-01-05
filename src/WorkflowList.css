@@ -1,0 +1,4 @@
+[class^="MuiCardHeader-root"] {
+    background-color: red;
+    min-height:120px;
+}
